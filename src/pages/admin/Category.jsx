@@ -1,5 +1,5 @@
 
-import FormCategory from '../../components/Admin/FormCategory'
+import FormCategory from '../../components/admin/FormCategory'
 
 const Category = () => {
   return (

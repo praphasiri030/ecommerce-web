@@ -1,5 +1,5 @@
 
-import FormEditProduct from '../../components/Admin/FormEditProduct'
+import FormEditProduct from '../../components/admin/FormEditProduct'
 
 const EditProduct = () => {
   return (
